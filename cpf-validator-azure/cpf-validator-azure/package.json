@@ -1,0 +1,14 @@
+{
+  "name": "cpf-validator-azure",
+  "version": "1.0.0",
+  "description": "Microsserviço serverless em Azure Functions para validação de CPF (Brasil)",
+  "main": "ValidateCPF/index.js",
+  "scripts": {
+    "start": "func start",
+    "test": "jest"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
