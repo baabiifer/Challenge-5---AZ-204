@@ -1,0 +1,9 @@
+{
+  "name": "azure-api-pratica",
+  "version": "1.0.0",
+  "description": "Projeto prático: Deploy de uma API na Nuvem usando Azure Functions",
+  "scripts": {
+    "start": "func start"
+  },
+  "license": "MIT"
+}
