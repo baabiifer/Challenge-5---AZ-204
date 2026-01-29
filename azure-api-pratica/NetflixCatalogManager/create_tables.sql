@@ -1,0 +1,7 @@
+CREATE TABLE Catalogs (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    Title NVARCHAR(200) NOT NULL,
+    Type NVARCHAR(50) NOT NULL,
+    Genre NVARCHAR(100),
+    Year INT
+);
